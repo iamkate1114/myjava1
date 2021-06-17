@@ -26,6 +26,8 @@ public class MySecoundJava {
 		System.out.println("name3의 값은"+name3);
 		
 		
+		
+		
 	}
 	
 
