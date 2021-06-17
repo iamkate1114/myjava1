@@ -10,7 +10,7 @@ public class MySecoundJava {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello World2");
-		System.out.println("한글");
+		System.out.println("한냥글");
 		System.out.println("Hello World2");
 		System.out.println("Hello World2");
 		System.out.println("Hello World2");
